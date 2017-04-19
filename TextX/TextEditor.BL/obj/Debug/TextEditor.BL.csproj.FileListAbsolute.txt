@@ -1,0 +1,5 @@
+c:\Users\Krema\documents\visual studio 2015\Projects\TextX\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+c:\Users\Krema\documents\visual studio 2015\Projects\TextX\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+c:\Users\Krema\documents\visual studio 2015\Projects\TextX\TextEditor.BL\obj\Debug\TextEditor.BL.csprojResolveAssemblyReference.cache
+c:\Users\Krema\documents\visual studio 2015\Projects\TextX\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+c:\Users\Krema\documents\visual studio 2015\Projects\TextX\TextEditor.BL\obj\Debug\TextEditor.BL.pdb

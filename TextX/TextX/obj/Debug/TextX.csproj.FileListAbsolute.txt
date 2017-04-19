@@ -1,0 +1,11 @@
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\bin\Debug\TextX.exe.config
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\bin\Debug\TextX.exe
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\bin\Debug\TextX.pdb
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\bin\Debug\TextEditor.BL.dll
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\bin\Debug\TextEditor.BL.pdb
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\obj\Debug\TextX.csprojResolveAssemblyReference.cache
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\obj\Debug\TextX.Properties.Resources.resources
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\obj\Debug\TextX.csproj.GenerateResource.Cache
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\obj\Debug\TextX.exe
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\obj\Debug\TextX.pdb
+c:\users\krema\documents\visual studio 2015\Projects\TextX\TextX\obj\Debug\TextX.MainForm.resources
